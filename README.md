@@ -1,4 +1,4 @@
-# Data Analytics Portfolio
+# Data Analysis 
 
 This repository serves as a central portfolio showcasing my work in data cleaning, analysis, and visualization.
 The projects focus on transforming raw, real-world datasets into structured, reliable data.
