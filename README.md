@@ -50,8 +50,10 @@ Clear explanations of key decisions and insights
 
 # Contact
 
-LinkedIn: https://www.linkedin.com/in/vicsilva42/
+[E-Mail](vicsilva.de@gmail.com)
 
-GitHub: https://github.com/TheRedBaronDe
+[LinkedIn](https://www.linkedin.com/in/vicsilva42/)
 
-Tableau: https://public.tableau.com/app/profile/vicsilva42/vizzes
+[Portfolio - Website](https://theredbaronde.github.io/vicsilva.github.io/)
+
+[Tableau](https://public.tableau.com/app/profile/vicsilva42/vizzes)
